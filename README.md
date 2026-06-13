@@ -33,21 +33,6 @@ const zegarra = {
 
 ---
 
-## TECNOLOGIAS
-
-<div align="center">
-
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
 ## ESTADISTICAS
 
 <div align="center">
@@ -61,21 +46,13 @@ const zegarra = {
 
 ---
 
-## 〔 el gusanito come-commits 🐍 〕
+## SSSSSSSSSSSSSSSS
 
-> *Cada cuadradito verde que come es un día que programé algo. ¡Aliméntalo!*
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZegarraRobert/ZegarraRobert/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZegarraRobert/ZegarraRobert/output/github-contribution-grid-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZegarraRobert/ZegarraRobert/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
+> https://zegarrarobert.github.io/snake/
 
 ---
 
-## 〔 actividad 〕
+## ACTIVIDAD
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZegarraRobert&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" />
@@ -83,12 +60,27 @@ const zegarra = {
 
 ---
 
-## 〔 contacto 〕
+## CONTACTO
 
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robert-zegarra-ab54392a7/)
   [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertzegarralima2210@gmail.com)
+
+</div>
+
+---
+
+## TECNOLOGIAS
+
+<div align="center">
+
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
