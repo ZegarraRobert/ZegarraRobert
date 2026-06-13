@@ -17,7 +17,7 @@
 
 ---
 
-## 〔 sobre mí 〕
+## 〔SOBRE MI
 
 ```javascript
 const zegarra = {
@@ -33,7 +33,7 @@ const zegarra = {
 
 ---
 
-## 〔 tecnologías 〕
+## TECNOLOGIAS
 
 <div align="center">
 
