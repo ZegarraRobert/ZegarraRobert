@@ -48,7 +48,7 @@ const zegarra = {
 
 ## SSSSSSSSSSSSSSSS
 
-> https://zegarrarobert.github.io/snake/
+https://zegarrarobert.github.io/snake/
 
 ---
 
