@@ -17,7 +17,7 @@
 
 ---
 
-## 〔SOBRE MI
+## SOBRE MI
 
 ```javascript
 const zegarra = {
@@ -48,7 +48,7 @@ const zegarra = {
 
 ---
 
-## 〔 estadísticas 〕
+## ESTADISTICAS
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZegarraRobert&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&count_private=true"/>
