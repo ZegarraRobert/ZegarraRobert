@@ -11,7 +11,7 @@
 
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Hola+mundo%2C+soy+Zegarra+👋;Construyo+interfaces+que+enamoran;CSS+es+mi+pincel%2C+JS+mi+magia;Cada+bug+es+un+reto+disfrazado+🐛;Commiteando+sueños+desde+Perú+🇵🇪)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Hola+mundo;Commit+revert+:c)
 
 </div>
 
