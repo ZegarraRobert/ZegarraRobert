@@ -55,14 +55,6 @@ const zegarra = {
 
 ---
 
-## ACTIVIDAD
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZegarraRobert&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" />
-</div>
-
----
-
 ## CONTACTO
 
 <div align="center">
