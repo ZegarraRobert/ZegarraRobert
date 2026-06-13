@@ -9,14 +9,6 @@
 ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<div align="center">
-
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Hola+mundo;Commit+revert+:c)
-
-</div>
-
----
-
 ## SOBRE MI
 
 ```javascript
@@ -26,10 +18,14 @@ const zegarra = {
   especialidad: ["HTML", "CSS", "JavaScript"],
   enfoque:      "Interfaces limpias, rápidas y accesibles",
   aprendiendo:  ["React", "Git avanzado", "UI/UX Design"],
-  filosofia:    "El diseño es inteligencia hecha visible.",
   estadoActual: "☕ + </> = 🚀"
 };
 ```
+<div align="center">
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Hola+mundo;Commit+revert+:c)
+
+</div>
 
 ---
 
