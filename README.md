@@ -48,7 +48,7 @@ const zegarra = {
 
 ## SSSSSSSSSSSSSSSS
 
-https://zegarrarobert.github.io/snake/
+🕹️ **[► JUGAR SNAKE](https://zegarrarobert.github.io/snake)**
 
 ---
 
