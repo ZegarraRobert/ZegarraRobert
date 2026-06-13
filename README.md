@@ -1,17 +1,17 @@
-# Robert Zegarra — Frontend Developer
+# Zegarra — Frontend Developer
 
 ```
- ██████╗  ██████╗ ██████╗ ███████╗██████╗ ████████╗
- ██╔══██╗██╔═══██╗██╔══██╗██╔════╝██╔══██╗╚══██╔══╝
- ██████╔╝██║   ██║██████╔╝█████╗  ██████╔╝   ██║
- ██╔══██╗██║   ██║██╔══██╗██╔══╝  ██╔══██╗   ██║
- ██║  ██║╚██████╔╝██████╔╝███████╗██║  ██║   ██║
- ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝
+███████╗███████╗ ██████╗  █████╗ ██████╗ ██████╗  █████╗
+╚══███╔╝██╔════╝██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██╔══██╗
+  ███╔╝ █████╗  ██║  ███╗███████║██████╔╝██████╔╝███████║
+ ███╔╝  ██╔══╝  ██║   ██║██╔══██║██╔══██╗██╔══██╗██╔══██║
+███████╗███████╗╚██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║
+╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Crafting+clean+%26+fast+UIs;Always+learning%2C+always+building)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Hola+mundo%2C+soy+Zegarra+👋;Construyo+interfaces+que+enamoran;CSS+es+mi+pincel%2C+JS+mi+magia;Cada+bug+es+un+reto+disfrazado+🐛;Commiteando+sueños+desde+Perú+🇵🇪)
 
 </div>
 
@@ -20,13 +20,14 @@
 ## 〔 sobre mí 〕
 
 ```javascript
-const robert = {
+const zegarra = {
   rol:          "Frontend Developer",
   ubicacion:    "Perú 🇵🇪",
   especialidad: ["HTML", "CSS", "JavaScript"],
   enfoque:      "Interfaces limpias, rápidas y accesibles",
   aprendiendo:  ["React", "Git avanzado", "UI/UX Design"],
-  motto:        "El código que no se ve es tan importante como el que sí."
+  filosofia:    "El diseño es inteligencia hecha visible.",
+  estadoActual: "☕ + </> = 🚀"
 };
 ```
 
@@ -50,12 +51,26 @@ const robert = {
 ## 〔 estadísticas 〕
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZegarraRobert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZegarraRobert&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZegarraRobert&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZegarraRobert&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" />
+  <img src="https://streak-stats.demolab.com?user=ZegarraRobert&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" />
+</div>
+
+---
+
+## 〔 el gusanito come-commits 🐍 〕
+
+> *Cada cuadradito verde que come es un día que programé algo. ¡Aliméntalo!*
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZegarraRobert/ZegarraRobert/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZegarraRobert/ZegarraRobert/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZegarraRobert/ZegarraRobert/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
@@ -73,7 +88,6 @@ const robert = {
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robert-zegarra-ab54392a7/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%2300D9FF.svg?style=for-the-badge&logo=firefox&logoColor=black)](https://TU-PORTFOLIO-AQUI.com)
   [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertzegarralima2210@gmail.com)
 
 </div>
@@ -85,7 +99,7 @@ const robert = {
 </div>
 
 <div align="center">
-  
-  *"Haz de tripas corazón."*
+
+  *"Haced de tripas corazón."*
 
 </div>
